@@ -138,14 +138,3 @@ Country     : India 🇮🇳
 ```
 
 
-
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujalsahu639-ux&theme=onedark" />
-</p>
-
----
-
-<h3 align="center">⭐ Building Today For A Better Tomorrow ⭐</h3>
-
