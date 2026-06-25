@@ -1,5 +1,3 @@
-				````md id="sujal-premium"
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Sujal%20Kumar%20Sahu&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
@@ -136,5 +134,3 @@ Country     : India 🇮🇳
 </div>
 
 ```
-
-
