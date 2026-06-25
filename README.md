@@ -1,102 +1,142 @@
+<!-- PROFILE BANNER -->
+<h1 align="center">Hey there 👋, I'm Sujal Kumar Sahu</h1>
+<h3 align="center">🚀 Full Stack Java Developer in Progress | Building My Future Through Code</h3>
 
-# Hi 👋, I'm Sujal Kumar Sahu
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Java+Developer;Learning+Spring+Boot;Frontend+%2B+Backend+Developer;Always+Learning+New+Things" />
+</p>
 
-### 🚀 Aspiring Full Stack Java Developer | B.Tech Student | Passionate Coder
-
-Welcome to my GitHub profile!  
-I am a passionate developer who enjoys building applications, learning new technologies, and solving real-world problems through code.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 B.Tech Student at BIET (Bhadrak Institute of Engineering & Technology)
-- 💻 Interested in Full Stack Java Development
-- 🌱 Currently learning **Java, Spring Boot, SQL, HTML, CSS, JavaScript**
-- 🔭 Working on improving my development and problem-solving skills
-- 🎯 Goal: To become a Software Engineer in a top MNC
-- ⚡ Fun fact: I enjoy learning by building projects
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sujalsahu639-ux&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-### Programming Languages
-- Java ☕
-- JavaScript
-- SQL
+```yaml
+Name: Sujal Kumar Sahu
+Education: B.Tech Student (BIET)
+Role: Aspiring Full Stack Java Developer
+Focus: Java + Backend + Web Development
+Goal: Software Engineer at a Top Tech Company
+Location: India
+```
+
+- 🌱 Currently learning **Java, Spring Boot, SQL**
+- 💻 Love building web applications and backend systems
+- 📚 Improving DSA and problem-solving skills
+- 🚀 Interested in software engineering and scalable applications
+- 🎯 Working every day to become industry-ready
+
+---
+
+# ⚡ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,mysql" />
+</p>
 
 ### Frontend
-- HTML5
-- CSS3
-- JavaScript
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
 ### Backend
-- Java
-- Spring Boot
-- JDBC
-- Servlets
 
-### Database
-- MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
 
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Eclipse
-- Figma
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,figma" />
+</p>
 
 ---
 
-## 📂 Projects
+# 📌 Featured Projects
 
-### Student Voice Blog Website
-- Built using semantic HTML and CSS
-- Responsive blog-style website design
+## 📝 Student Voice Blog Website
 
-### Academic Projects
-- Java-based projects focused on backend development and database integration
+✔ Built using Semantic HTML  
+✔ CSS Responsive Design  
+✔ Blog-style modern layout  
 
----
+## ☕ Java Projects
 
-## 📊 GitHub Stats
-
-![Sujal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujalsahu639-ux&show_icons=true)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujalsahu639-ux&layout=compact)
+✔ JDBC Database Connectivity  
+✔ Console-based Java Applications  
+✔ Backend Logic + SQL Integration  
 
 ---
 
-## 🌐 Connect With Me
+# 📈 GitHub Statistics
 
-- 📧 Email: sujalsahu639@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/sujal-sahu-2bbbaa384  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sujalsahu639-ux&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalsahu639-ux&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=sujalsahu639-ux&theme=radical" />
+</p>
 
 ---
 
-## 💡 Quote I Follow
+# 🎯 Currently Working On
 
-> "Consistency and learning every day build great developers."
+```text
+→ Mastering Java Development
+→ Learning Spring Boot Framework
+→ Building Full Stack Projects
+→ Improving Data Structures & Algorithms
+→ Preparing for Software Engineering Roles
+```
 
 ---
 
-⭐ Thanks for visiting my profile!
-<!--
-**sujalsahu639-ux/sujalsahu639-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌐 Connect With Me
 
-Here are some ideas to get you started:
+📧 Email: **sujalsahu639@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 LinkedIn:  
+www.linkedin.com/in/sujal-sahu-2bbbaa384
+
+🐙 GitHub:  
+https://github.com/sujalsahu639-ux
+
+---
+
+# 💡 Philosophy
+
+```java
+public class Success {
+   public static void main(String[] args){
+      while(!successful){
+         Learn();
+         Practice();
+         Improve();
+         Repeat();
+      }
+   }
+}
+```
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sujalsahu639-ux&theme=onedark" />
+</p>
+
+---
+
+<h3 align="center">⭐ Building Today For A Better Tomorrow ⭐</h3>
+
