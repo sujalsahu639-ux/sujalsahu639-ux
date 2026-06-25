@@ -1,35 +1,4 @@
-````md id="sujal-premium"
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Sujal%20Kumar%20Sahu&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-# Hey Developers 👋  
-
-### 🚀 Full Stack Java Developer | Passionate Coder | Future Software Engineer  
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Java+Developer+in+Progress;Learning+Spring+Boot+and+Backend;Building+Projects+Everyday;Future+Software+Engineer"/>
-
-</div>
-
----
-
-<img align="right" height="260" src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif"/>
-
-## 👨‍💻 About Me  
-
-```yaml
-Name        : Sujal Kumar Sahu
-Education   : B.Tech Student (BIET)
-Role        : Aspiring Full Stack Java Developer
-Focus       : Java | Backend | Web Development
-Learning    : Spring Boot | SQL | DSA
-Goal        : Software Engineer at Top MNC
-Country     : India 🇮🇳
-````
-
----
-
+				## 👨‍💻 About Me <p align="left"> 👤 <b>Name:</b> Sujal Kumar Sahu <br><br> 🎓 <b>Education:</b> B.Tech Student (BIET) <br><br> 💻 <b>Role:</b> Aspiring Full Stack Java Developer <br><br> 🚀 <b>Focus:</b> Java | Backend | Web Development <br><br> 🌱 <b>Learning:</b> Spring Boot | SQL | DSA <br><br> 🎯 <b>Goal:</b> Software Engineer at Top Tech Company <br><br> 🇮🇳 <b>Country:</b> India </p>
 # 🌱 Currently Learning
 
 ✅ Java Programming
