@@ -123,13 +123,6 @@ Country     : India 🇮🇳
 </div>
 
 ---
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sujalsahu639-ux&label=Profile%20Views&color=blue&style=for-the-badge"/>
-
-</div>
----
-
 
 ```
 
